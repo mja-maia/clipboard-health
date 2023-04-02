@@ -15,13 +15,13 @@ Based on the information given, break this ticket down into 2-5 individual ticke
 
 You will be graded on the level of detail in each ticket, the clarity of the execution plan within and between tickets, and the intelligibility of your language. You don't need to be a native English speaker, but please proof-read your work.
 
-## Your Breakdown Here
+## My answer starts here
 
 # Ticket 1: Add a custom ID field to the Agent table
 
 **Description:** Currently, the system is using the internal database ID for each Agent when generating reports. This ticket involves adding a custom ID field to the Agent table in the database so that Facilities can save their own custom IDs for each Agent they work with.
 
-## ## Acceptance Criteria:
+## Acceptance Criteria:
 
 - A new field named "custom_id" is added to the Agent table.
 - The custom_id field is editable from the Facility interface.
